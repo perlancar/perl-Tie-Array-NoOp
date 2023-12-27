@@ -1,5 +1,5 @@
 ## no critic: TestingAndDebugging::RequireUseStrict
-package Tie::Scalar::NoOp;
+package Tie::Array::NoOp;
 
 # IFUNBUILT
 use strict;
